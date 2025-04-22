@@ -1,0 +1,1 @@
+// Context to manage authenticated user

@@ -1,0 +1,1 @@
+// Function to set Firebase custom claims
